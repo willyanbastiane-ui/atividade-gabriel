@@ -1,0 +1,14 @@
+.caixa-formulario {
+    background-color: blue;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.caixa {
+    margin-right: 10px;
+}
+
+.input {
+    align-items: center;
+}
